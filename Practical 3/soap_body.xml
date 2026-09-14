@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope
+    xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:tns="http://webservice.example.com/">
+
+    <soapenv:Header/>
+
+    <soapenv:Body>
+        <tns:fahrenheitToCelsius>
+            <arg0>98.5</arg0>
+        </tns:fahrenheitToCelsius>
+    </soapenv:Body>
+
+</soapenv:Envelope>
