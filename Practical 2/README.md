@@ -11,8 +11,6 @@
 
 To create and publish a SOAP web service for arithmetic operations such as addition, subtraction, multiplication and division.
 
-> **Note:** The uploaded Practical 2 PDF does not explicitly state an Aim; the above aim is derived from the code and SOAP request shown in the practical.
-
 ---
 
 ## Files
