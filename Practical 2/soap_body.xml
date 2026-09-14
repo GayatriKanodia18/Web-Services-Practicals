@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope
+    xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:tns="http://webservice.example.com/">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <tns:divide>
+            <arg0>10</arg0>
+            <arg1>20</arg1>
+        </tns:divide>
+    </soapenv:Body>
+</soapenv:Envelope>
